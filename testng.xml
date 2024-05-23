@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="api.utilities.ExtentReportManager" />
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/CHARLIE/3D Objects/PetStore_RestAssuredFramework/src/test/java/api/test"><classes><class name="api.test.DDTStoreTest"><methods><include name="testCreateOder"/><include name="testDeleteOrder"/></methods></class><class name="api.test.DDTUserTest"><methods><include name="testPostUser"/><include name="testDeleteUserByName"/></methods></class><class name="api.test.PetTest_withExternalJSON"><methods><include name="testCreatePetUsingExternalJson"/><include name="testDeletePet"/></methods></class><class name="api.test.PetTests"><methods><include name="testPet"/><include name="testGetPet"/><include name="testUpdatePet"/><include name="testDeletePet"/></methods></class><class name="api.test.StoreTest"><methods><include name="testCreateOrder"/><include name="testGetOrder"/><include name="testDeleteOrder"/></methods></class><class name="api.test.UserTests"><methods><include name="testPostUser"/><include name="testGetUserbyName"/><include name="testUpdateUser"/><include name="testDeleteUserByName"/></methods></class><class name="api.test.UserTests_With_Properties"><methods><include name="testPostUser"/><include name="testGetUserbyName"/><include name="testUpdateUser"/><include name="testDeleteUserByName"/></methods></class></classes></test></suite>

@@ -1,0 +1,18 @@
+{
+  "id": 922337203,
+  "category": {
+    "id": 0,
+    "name": "Dogs"
+  },
+  "name": "Jack",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "pitbull"
+    }
+  ],
+  "status": "available"
+}

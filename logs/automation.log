@@ -1,0 +1,79 @@
+16:35:21.041 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+16:35:29.089 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+16:35:29.105 [main] INFO  api.test.StoreTest - ************** Fetching Order Info **************
+16:35:30.900 [main] INFO  api.test.StoreTest - ************** Deleting Order **************
+16:36:59.736 [main] INFO  api.test.StoreTest - ************** Fetching Order Info **************
+16:37:09.953 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+16:37:16.610 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+16:37:16.625 [main] INFO  api.test.StoreTest - ************** Fetching Order Info **************
+16:37:18.452 [main] INFO  api.test.StoreTest - ************** Deleting Order **************
+16:39:00.855 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+16:39:05.421 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+16:39:05.436 [main] INFO  api.test.StoreTest - ************** Fetching Order Info **************
+16:39:07.068 [main] INFO  api.test.StoreTest - ********* Order Info Displayed***********
+16:39:07.068 [main] INFO  api.test.StoreTest - ************** Deleting Order **************
+16:39:08.387 [main] INFO  api.test.StoreTest - ********* Order Deleted***********
+17:57:42.320 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+17:57:52.136 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+18:12:27.359 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+18:12:31.576 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+14:39:49.424 [main] INFO  api.test.PetTests - ********* Creating Pet Info***********
+14:39:52.820 [main] INFO  api.test.PetTests - ********* Pet Info Created ***********
+14:39:52.855 [main] INFO  api.test.PetTests - ********* Fetching Pet Info***********
+14:39:56.535 [main] INFO  api.test.PetTests - ********* Pet Info Displayed ***********
+14:39:56.560 [main] INFO  api.test.PetTests - ********* Updating Pet Info***********
+14:40:01.430 [main] INFO  api.test.PetTests - ********* Pet Info Updated ***********
+14:40:01.435 [main] INFO  api.test.PetTests - ********* Deleting Pet Info***********
+14:40:05.421 [main] INFO  api.test.PetTests - ********* Pet Info Deleted ***********
+14:40:05.441 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+14:40:10.135 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+14:40:10.145 [main] INFO  api.test.StoreTest - ************** Fetching Order Info **************
+14:40:11.963 [main] INFO  api.test.StoreTest - ********* Order Info Displayed***********
+14:40:11.968 [main] INFO  api.test.StoreTest - ************** Deleting Order **************
+14:40:16.177 [main] INFO  api.test.StoreTest - ********* Order Deleted***********
+14:40:16.584 [main] INFO  api.test.UserTests - ********* Creating User ***********
+14:40:20.378 [main] INFO  api.test.UserTests - ********* User Created ***********
+14:40:20.388 [main] INFO  api.test.UserTests - ********* Reading User Info ***********
+14:40:22.759 [main] INFO  api.test.UserTests - ********* User Info Displayed***********
+14:40:22.769 [main] INFO  api.test.UserTests - ********* Updating User Data ***********
+14:40:33.568 [main] INFO  api.test.UserTests - ********* User Info Updated ***********
+14:40:33.573 [main] INFO  api.test.UserTests - ********* Deleting User ***********
+14:40:37.376 [main] INFO  api.test.UserTests - ********* User Deleted ***********
+14:40:37.502 [main] INFO  api.test.UserTests_With_Properties - ********* Creating User ***********
+14:40:40.588 [main] INFO  api.test.UserTests_With_Properties - ********* User Created ***********
+14:40:40.599 [main] INFO  api.test.UserTests_With_Properties - ********* Reading User Info ***********
+14:40:44.338 [main] INFO  api.test.UserTests_With_Properties - ********* User Info Displayed***********
+14:40:44.343 [main] INFO  api.test.UserTests_With_Properties - ********* Updating User Data ***********
+14:40:52.018 [main] INFO  api.test.UserTests_With_Properties - ********* User Info Updated ***********
+14:40:52.028 [main] INFO  api.test.UserTests_With_Properties - ********* Deleting User ***********
+14:40:56.052 [main] INFO  api.test.UserTests_With_Properties - ********* User Deleted ***********
+15:08:04.870 [main] INFO  api.test.PetTests - ********* Creating Pet Info***********
+15:08:09.834 [main] INFO  api.test.PetTests - ********* Pet Info Created ***********
+15:08:09.865 [main] INFO  api.test.PetTests - ********* Fetching Pet Info***********
+15:08:12.169 [main] INFO  api.test.PetTests - ********* Pet Info Displayed ***********
+15:08:12.200 [main] INFO  api.test.PetTests - ********* Updating Pet Info***********
+15:08:17.135 [main] INFO  api.test.PetTests - ********* Pet Info Updated ***********
+15:08:17.135 [main] INFO  api.test.PetTests - ********* Deleting Pet Info***********
+15:08:20.244 [main] INFO  api.test.PetTests - ********* Pet Info Deleted ***********
+15:08:20.275 [main] INFO  api.test.StoreTest - ************** Creating Order **************
+15:08:23.370 [main] INFO  api.test.StoreTest - ****************** Order Placed *******************
+15:08:23.386 [main] INFO  api.test.StoreTest - ************** Fetching Order Info **************
+15:08:25.899 [main] INFO  api.test.StoreTest - ********* Order Info Displayed***********
+15:08:25.914 [main] INFO  api.test.StoreTest - ************** Deleting Order **************
+15:08:31.314 [main] INFO  api.test.StoreTest - ********* Order Deleted***********
+15:08:31.726 [main] INFO  api.test.UserTests - ********* Creating User ***********
+15:08:36.025 [main] INFO  api.test.UserTests - ********* User Created ***********
+15:08:36.025 [main] INFO  api.test.UserTests - ********* Reading User Info ***********
+15:08:40.276 [main] INFO  api.test.UserTests - ********* User Info Displayed***********
+15:08:40.292 [main] INFO  api.test.UserTests - ********* Updating User Data ***********
+15:08:46.766 [main] INFO  api.test.UserTests - ********* User Info Updated ***********
+15:08:46.781 [main] INFO  api.test.UserTests - ********* Deleting User ***********
+15:08:51.931 [main] INFO  api.test.UserTests - ********* User Deleted ***********
+15:08:52.025 [main] INFO  api.test.UserTests_With_Properties - ********* Creating User ***********
+15:08:54.961 [main] INFO  api.test.UserTests_With_Properties - ********* User Created ***********
+15:08:54.961 [main] INFO  api.test.UserTests_With_Properties - ********* Reading User Info ***********
+15:08:57.014 [main] INFO  api.test.UserTests_With_Properties - ********* User Info Displayed***********
+15:08:57.014 [main] INFO  api.test.UserTests_With_Properties - ********* Updating User Data ***********
+15:09:03.617 [main] INFO  api.test.UserTests_With_Properties - ********* User Info Updated ***********
+15:09:03.632 [main] INFO  api.test.UserTests_With_Properties - ********* Deleting User ***********
+15:09:06.423 [main] INFO  api.test.UserTests_With_Properties - ********* User Deleted ***********
