@@ -4,7 +4,7 @@ This project involves performing automation testing on PestStore APi using a Res
 ## Features 
 - HTML Reports
 - Data Driven Testing
-- Logging
+- Automation logs
 - Parallel Testing using TestNG
 
 ## Test Scenarios
@@ -26,7 +26,7 @@ This project involves performing automation testing on PestStore APi using a Res
       - Create pet using data from an external json file
       - Delete pet created
 
-   3). Store Module:
+3). Store Module:
     - Create order
     - Get oder
     - Delete order
