@@ -1,8 +1,6 @@
 package api.endpoints;
 
 public class Routes {
-    // making it public so that it can be accessed anywhere in the project
-    //making it static so that i use can this variable directly using the class name with out using any object
 
         public static String base_url="https://petstore.swagger.io/v2" ;
 
